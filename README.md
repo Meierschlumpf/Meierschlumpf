@@ -44,7 +44,7 @@ Beside TypeScript I work or worked with the following technologies at work or in
 
 ## Jobs
 
-**Starting August 2024**
+**August 2024 - Today**
 
 Software Engineer at BillingOnline team [@swisspost](https://github.com/swisspost)
 
