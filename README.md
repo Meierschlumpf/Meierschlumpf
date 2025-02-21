@@ -1,7 +1,7 @@
 ## About
 
 Hi there 👋
-I'm a 21 year old developer from switzerland.
+I'm a 22 year old developer from switzerland.
 In my freetime, beside coding on personal projects, I like to
 
 - Create fancy meals 🥣
